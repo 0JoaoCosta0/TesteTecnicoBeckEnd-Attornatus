@@ -1,5 +1,7 @@
 # TesteTecnicoBeckEnd-Attornatus
 
+<H3>Foi usado o Postman para teste durante o desenvolvimento da API</H3>
+
 <H3>Endpoints utilizados na API:</H3>
 
 <p>http://localhost:8080/pessoas -/- Requisição GET & POST para listar ou criar as pessoas cadastradas.</p>
